@@ -1,0 +1,85 @@
+Plot()
+ {
+  Outlier_Model("General",T(5),U(0,4),"t");
+  Sequence()
+  {
+   Boundary("Start Miller");
+   Phase("Miller")
+   {
+    R_Date("UGAMS-62677_Miller_Maize",640,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-62678_Miller_Maize",690,20)
+    {
+     Outlier("General",0.05);
+    };
+    Interval("Interval Miller",LnN(ln(25),ln(2)));
+    Date("Date Miller")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Miller");
+  };
+  Sequence()
+  {
+   Boundary("Start Bennett");
+   Phase("Bennett")
+   {
+    R_Date("UOC-19951_Bennett_Maize",613,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19952_Bennett_Maize",587,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19953_Bennett_Maize",600,11)
+    {
+     Outlier("General",0.05);
+    };
+    Interval("Interval Bennett",LnN(ln(25),ln(2)));
+    Date("Date Bennett")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Bennett");
+   };
+  Sequence()
+   {
+   Boundary("Start Uren");
+   Phase("Uren")
+   {
+    R_Date("UGA-26438_Uren_Charred_maize_kernel",580,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Combine("UGA-26439")
+    {
+     R_Date("UGA-26439a_Uren_Maize",580,20);
+     R_Date("UGA-26439b_Uren_Maize",570,26);
+          
+     {
+      Outlier("General",0.05);
+     };
+    };
+    R_Date("UOC-15871_Uren_Charred_maize_kernel",591,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-15872_Uren_Charred_maize_kernel",586,26)
+    {
+     Outlier("General",0.05);
+    };
+    Interval("Interval Uren",LnN(ln(25),ln(2)));
+    Date("Date Uren")
+    {
+     color="Blue";
+    };
+   };
+   Boundary("End Uren");
+  };
+ };
+ };
