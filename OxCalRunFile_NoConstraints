@@ -1,0 +1,528 @@
+Plot()
+ {
+  Outlier_Model("General",T(5),U(0,4),"t");
+  Sequence()
+  {
+   Boundary("Start Lone Pine");
+   Phase("Lone Pine")
+   {
+    R_Date("TO-4083_Lone Pine_Zea mays",800,50)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-4586_Lone Pine_Zea mays",1040,60)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Lone Pine")
+    {
+     color="Red";
+    };
+   };
+   Boundary("End Lone Pine");
+  };
+  Sequence()
+  {
+   Boundary("Start Grand Banks");
+   Phase("Grand Banks")
+   {
+    //  R_Date("TO-4558_Grand Banks_Phaseolus vulgaris",210,60) {Outlier("General",0.05); };
+    R_Date("TO-4584_Grand Banks_Zea mays",1060,60)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-4585_Grand Banks_Zea mays",1250,80)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5307_Grand Banks_Zea mays",1570,90)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5308_Grand Banks_Zea mays",1500,150)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5875_Grand Banks_Zea mays",970,50)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Grand Banks")
+    {
+     color="Red";
+    };
+   };
+   Boundary("End Grand Banks");
+  };
+  Sequence()
+  {
+   Boundary("Start Holmedale");
+   Phase("Holmedale")
+   {
+    R_Date("UGAMS-59371_Holmedale_carbonized maize kernel fragments",970,25)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-59372_Holmedale_carbonized maize kernel fragments",970,20)
+    {
+     Outlier("General",0.05);
+    };
+    // R_Date("UGAMS-59373_Holmedale_carbonized maize kernel fragments",1090,20) {Outlier("General",0.05); };
+    R_Date("UGAMS-59374_Holmedale_carbonized maize kernel fragments",960,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-6079_Holmedale_Zea mays",1010,70)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16305*_Holmedale_Zea mays",906,30)
+    {
+     Outlier("General",0.05);
+    };
+    //R_Date("UOC-16306*_Holmedale_Zea mays",878,32) {Outlier("General",0.05); };
+    Date("Date Holmedale")
+    {
+     color="Red";
+    };
+   };
+   Boundary("End Holmedale");
+  };
+  Sequence()
+  {
+   Boundary("Start Bull's Point");
+   Phase("Bull's Point")
+   {
+    R_Date("TO-6341_Bull's Point_Zea mays",960,60)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Bull's Point")
+    {
+     color="Red";
+    };
+   };
+   Boundary("End Bull's Point");
+  };
+  Sequence()
+  {
+   Boundary("Start Porteous");
+   Phase("Porteous")
+   {
+    R_Date("UOC-13128*_Porteous_Zea mays",878,28)
+    {
+     Outlier("General",0.05);
+    };
+    R_Combine("UOC-13129/13519")
+    {
+     R_Date("UOC-13129*_Porteous_Zea mays",841,25);
+     R_Date("UOC-13519*_Porteous_Zea mays",876,27);
+       
+     {
+      Outlier("General",0.05);
+     };
+    };
+    R_Date("UOC-13130*_Porteous_Zea mays",888,26)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Porteous")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Porteous");
+  };
+  Sequence()
+  {
+   Boundary("Start Kelly");
+   Phase("Kelly")
+   {
+    R_Date("I-11474_Kelly_Nutshell",790,80)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("TO-8963_Kelly_Phaseolus vulgaris",770,50)
+    {
+     Outlier("General", 0.05);
+    };
+    Date("Date Kelly")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Kelly");
+  };
+  Sequence()
+  {
+   Boundary("Start Auda");
+   Phase("Auda")
+   {
+    R_Date("Beta-446920_Auda_Bone Collagen",910,30)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UGAMS-60192_Auda_Seed",790,20)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UGAMS-60193_Auda_Seed",790,20)
+    {
+     Outlier("General", 0.05);
+    };
+    Date("Date Auda")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Auda");
+  };
+  Sequence()
+  {
+   Boundary("Start Van Besien");
+   Phase("Van Besien")
+   {
+    R_Date("UOC-13131*_Van Besien_Zea mays",858,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-13132*_Van Besien_Zea mays",787,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-13133*_Van Besien_Zea mays",822,26)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Van Besien")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Van Besien");
+  };
+  Sequence()
+  {
+   Boundary("Start Elliott II");
+   Phase("Elliott II")
+   {
+    R_Date("UOC-4223*_Elliot II_Zea mays",813,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-4224*_Elliot II_Zea mays",840,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16300*_Elliot II_Zea mays",832,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16301*_Elliot II_Zea mays",801,30)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Elliott II")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Elliott II");
+  };
+  Sequence()
+  {
+   Boundary("Start Elliott III");
+   Phase("Elliott III")
+   {
+    R_Date("UOC-4221*_Elliot III_Zea mays",820,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-4222*_Elliot III_Zea mays",824,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16302*_Elliot III_Zea mays",785,28)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16303*_Elliot III_Zea mays",803,31)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16304*_Elliot III_Zea mays",768,28)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Elliott III")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Elliott III");
+  };
+  Sequence()
+  {
+   Boundary("Start Boys Wood");
+   Phase("Boys Wood")
+   {
+    R_Date("UGAMS-60194_Boys_Maize",770,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-60195_Boys_Nut",790,20)
+    {
+     Outlier("General", 0.05);
+    };
+    Date("Date Boys Wood")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Boys Wood");
+  };
+  Sequence()
+  {
+   Boundary("Start De Waele");
+   Phase("De Waele")
+   {
+    R_Date("UOC-15868*_De Waele_Zea mays",747,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-15869*_De Waele_Zea mays",762,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-15870*_De Waele_Zea mays",710,28)
+    {
+     Outlier("General",0.05);
+    };
+   };
+   Date("Date De Waele")
+   {
+    color="Green";
+   };
+   Boundary("End De Waele");
+  };
+  Sequence()
+  {
+   Boundary("Start Grafton");
+   Phase("Grafton")
+   {
+    R_Date("BGS-1845_Grafton_Zea mays",970,110)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5981_Grafton_Zea mays",835,60)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("Beta-97372_Grafton_Bramble Seeds",730,50)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("TO-5981-b_Grafton_Zea mays",500,60)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Grafton")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Grafton");
+  };
+  Sequence()
+  {
+   Boundary("Start Hibou");
+   Phase("Hibou")
+   {
+    R_Date("TO-3844_Hibou_Zea_mays",730,50)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-3845_Hibou_Zea_mays",730,50)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Hibou")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Hibou");
+  };
+  Sequence()
+  {
+   Boundary("Start Miller");
+   Phase("Miller")
+   {
+    R_Date("UGAMS-62677_Miller_Maize",640,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-62678_Miller_Maize",690,20)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Miller")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Miller");
+  };
+    Sequence()
+  {
+   Boundary("Start Bennett");
+   Phase("Bennett")
+   {
+    R_Date("UOC-19951_Bennett_Maize",613,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19952_Bennett_Maize",587,11)
+    {
+     Outlier("General",0.05);
+    };
+	R_Date("UOC-19953_Bennett_Maize",600,11)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Bennett")
+    {
+     color="Green";
+    };
+   };
+   Boundary("End Bennett");
+  };
+  Sequence()
+  {
+   Boundary("Start Uren");
+   Phase("Uren")
+   {
+    R_Date("UGA-26438_Uren_Charred_maize_kernel",580,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Combine("UGA-26439")
+    {
+     R_Date("UGA-26439a_Uren_Maize",580,20);
+     R_Date("UGA-26439b_Uren_Maize",570,26);
+     {
+      Outlier("General",0.05);
+     };
+    };
+    R_Date("UOC-15871_Uren_Charred_maize_kernel",591,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-15872_Uren_Charred_maize_kernel",586,26)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Uren")
+    {
+     color="Blue";
+    };
+   };
+   Boundary("End Uren");
+  };
+  Sequence()
+  {
+   Boundary("Start Tillsonberg");
+   Phase("Tillsonberg")
+   {
+    R_Date("UOC-2297_Tillsonberg_Bone",630,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19269_Tillsonberg_Bone",600,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19270_Tillsonberg_Bone",565,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19186_Tillsonberg_Charred_bean",605,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19187_Tillsonberg_Charred_maize_kernel",571,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19188_Tillsonberg_Charred_plum_pit",547,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19271_Tillsonberg_Bone",563,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19272_Tillsonberg_Bone",583,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19189_Tillsonberg_Charred_maize_kernel",547,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19190_Tillsonberg_Charred_maize_kernel",667,12)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19191_Tillsonberg_Charred_maize_kernel",538,11)
+    {
+     Outlier("General", 0.05);
+    };
+    Date("Date Tillsonberg")
+    {
+     color="Blue";
+    };
+   };
+   Boundary("End Tillsonberg");
+  };
+  Sequence()
+  {
+   Boundary("Start Barrie");
+   Phase("Barrie")
+   {
+    R_Date("TO-3057_Barrie_Zea mays",530,40)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-40364_Zea mays",600,20)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Barrie")
+    {
+     color="Blue";
+    };
+   };
+   Boundary("End Barrie");
+  };
+  Sequence()
+  {
+   Boundary("Start Gunby");
+   Phase("Gunby")
+   {
+    R_Date("UGAMS-60196_Gunby_Maize",550,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-60197_Gunby_Maize",560,20)
+    {
+     Outlier("General",0.05);
+    };
+    Date("Date Gunby")
+    {
+     color="Blue";
+    };
+   };
+   Boundary("End Gunby");
+  };
+ };
