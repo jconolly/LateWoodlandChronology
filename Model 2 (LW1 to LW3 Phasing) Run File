@@ -1,0 +1,345 @@
+Plot()
+ {
+  Outlier_Model("General",T(5),U(0,4),"t");
+ Sequence()
+  {
+  Boundary("MidStart LW-1")
+   {
+     Transition("Duration Start LW-1");
+	 Start("Start Start LW-1");
+	 End("End Start LW-1");  
+   };
+  Phase("LW-1")
+   {
+//    R_Date("TO-4083_Lone Pine_Zea mays",800,50)
+//    {
+//     Outlier("General",0.05);
+//    };
+    R_Date("TO-4586_Lone Pine_Zea mays",1040,60)
+    {
+     Outlier("General",0.05);
+    };
+    //  R_Date("TO-4558_Grand Banks_Phaseolus vulgaris",210,60) {Outlier("General",0.05); };
+    R_Date("TO-4584_Grand Banks_Zea mays",1060,60)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-4585_Grand Banks_Zea mays",1250,80)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5307_Grand Banks_Zea mays",1570,90)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5308_Grand Banks_Zea mays",1500,150)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5875_Grand Banks_Zea mays",970,50)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-59371_Holmedale_carbonized maize kernel fragments",970,25)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-59372_Holmedale_carbonized maize kernel fragments",970,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-59373_Holmedale_carbonized maize kernel fragments",1090,20)
+	{
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-59374_Holmedale_carbonized maize kernel fragments",960,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-6079_Holmedale_Zea mays",1010,70)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16305*_Holmedale_Zea mays",906,30)
+    {
+     Outlier("General",0.05);
+    };
+    //R_Date("UOC-16306*_Holmedale_Zea mays",878,32) {Outlier("General",0.05); };
+    R_Date("TO-6341_Bull's Point_Zea mays",960,60)
+    {
+     Outlier("General",0.05);
+    };
+	Date("Date of LW-1");
+	Interval("Interval of LW-1");
+  };
+  Boundary("MidEnd LW-1")
+   {
+     Transition("Duration End LW-1");
+	 Start("Start End LW-1");
+	 End("End End LW-1");  
+   };
+  Boundary("MidStart LW-2")
+   {
+     Transition("Duration Start LW-2");
+	 Start("Start Start LW-2");
+	 End("End Start LW-2");  
+   };
+  Phase("LW-2")
+  {
+    R_Date("UOC-13128*_Porteous_Zea mays",878,28)
+    {
+     Outlier("General",0.05);
+    };
+    R_Combine("UOC-13129/13519")
+    {
+     R_Date("UOC-13129*_Porteous_Zea mays",841,25);
+     R_Date("UOC-13519*_Porteous_Zea mays",876,27);
+     {
+      Outlier("General",0.05);
+     };
+    };
+    R_Date("UOC-13130*_Porteous_Zea mays",888,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("I-11474_Kelly_Nutshell",790,80)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("TO-8963_Kelly_Phaseolus vulgaris",770,50)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Beta-446920_Auda_Bone Collagen",910,30)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UGAMS-60192_Auda_Seed",790,20)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UGAMS-60193_Auda_Seed",790,20)
+    {
+     Outlier("General", 0.05);
+    };
+     R_Date("UOC-13131*_Van Besien_Zea mays",858,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-13132*_Van Besien_Zea mays",787,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-13133*_Van Besien_Zea mays",822,26)
+    {
+     Outlier("General",0.05);
+	 };
+    R_Date("UOC-4223*_Elliot II_Zea mays",813,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-4224*_Elliot II_Zea mays",840,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16300*_Elliot II_Zea mays",832,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16301*_Elliot II_Zea mays",801,30)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-4221*_Elliot III_Zea mays",820,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-4222*_Elliot III_Zea mays",824,35)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16302*_Elliot III_Zea mays",785,28)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16303*_Elliot III_Zea mays",803,31)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-16304*_Elliot III_Zea mays",768,28)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-60194_Boys_Maize",770,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-60195_Boys_Nut",790,20)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-15868*_De Waele_Zea mays",747,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-15869*_De Waele_Zea mays",762,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-15870*_De Waele_Zea mays",710,28)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("BGS-1845_Grafton_Zea mays",970,110)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-5981_Grafton_Zea mays",835,60)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("Beta-97372_Grafton_Bramble Seeds",730,50)
+    {
+     Outlier("General", 0.05);
+    };
+//    R_Date("TO-5981-b_Grafton_Zea mays",500,60)
+//    {
+//     Outlier("General",0.05);
+//    };
+    R_Date("TO-3844_Hibou_Zea_mays",730,50)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("TO-3845_Hibou_Zea_mays",730,50)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-62677_Miller_Maize",640,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-62678_Miller_Maize",690,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19951_Bennett_Maize",613,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19952_Bennett_Maize",587,11)
+    {
+     Outlier("General",0.05);
+    };
+	R_Date("UOC-19953_Bennett_Maize",600,11)
+    {
+     Outlier("General",0.05);
+    };
+	
+    Date("Date LW-2");
+	Interval("Interval of LW-2");
+	};
+  Boundary("MidEnd LW-2")
+   {
+     Transition("Duration End LW-2");
+	 Start("Start End LW-2");
+	 End("End End LW-2");  
+   };
+  Boundary("MidStart LW-3")
+   {
+     Transition("Duration Start LW-3");
+	 Start("Start Start LW-3");
+	 End("End Start LW-3");  
+   };
+  Phase("LW-3")
+  {
+	R_Date("UGA-26438_Uren_Charred_maize_kernel",580,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Combine("UGA-26439")
+    {
+     R_Date("UGA-26439a_Uren_Maize",580,20);
+     R_Date("UGA-26439b_Uren_Maize",570,26);
+     {
+      Outlier("General",0.05);
+     };
+    };
+    R_Date("UOC-15871_Uren_Charred_maize_kernel",591,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-15872_Uren_Charred_maize_kernel",586,26)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-2297_Tillsonberg_Bone",630,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19269_Tillsonberg_Bone",600,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19270_Tillsonberg_Bone",565,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19186_Tillsonberg_Charred_bean",605,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19187_Tillsonberg_Charred_maize_kernel",571,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19188_Tillsonberg_Charred_plum_pit",547,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19271_Tillsonberg_Bone",563,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19272_Tillsonberg_Bone",583,11)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UOC-19189_Tillsonberg_Charred_maize_kernel",547,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19190_Tillsonberg_Charred_maize_kernel",667,12)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("UOC-19191_Tillsonberg_Charred_maize_kernel",538,11)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("TO-3057_Barrie_Zea mays",530,40)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-40364_Barry_Zea mays",600,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-60196_Gunby_Maize",550,20)
+    {
+     Outlier("General",0.05);
+    };
+    R_Date("UGAMS-60197_Gunby_Maize",560,20)
+    {
+     Outlier("General",0.05);
+    };
+	Date("Date LW-3");
+	Interval("Interval of LW-3");
+   };
+  Boundary("MidEnd LW-3")
+   {
+     Transition("Duration End LW-3");
+	 Start("Start End LW-3");
+	 End("End End LW-3");  
+   };
+  };
+ };
