@@ -116,8 +116,7 @@ Plot()
     R_Combine("UOC-13129/13519")
     {
      R_Date("UOC-13129*_Porteous_Zea mays",841,25);
-     R_Date("UOC-13519*_Porteous_Zea mays",876,27);
-       
+     R_Date("UOC-13519*_Porteous_Zea mays",876,27);    
      {
       Outlier("General",0.05);
      };
@@ -126,6 +125,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Porteous",LnN(ln(25),ln(2)));
     Date("Date Porteous")
     {
      color="Green";
@@ -146,6 +146,7 @@ Plot()
     {
      Outlier("General", 0.05);
     };
+    Interval("Interval Kelly",LnN(ln(25),ln(2)));
     Date("Date Kelly")
     {
      color="Green";
@@ -170,6 +171,7 @@ Plot()
     {
      Outlier("General", 0.05);
     };
+    Interval("Interval Auda",LnN(ln(25),ln(2)));
     Date("Date Auda")
     {
      color="Green";
@@ -194,6 +196,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Van Besien",LnN(ln(25),ln(2)));
     Date("Date Van Besien")
     {
      color="Green";
@@ -222,6 +225,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Elliott II",LnN(ln(25),ln(2)));
     Date("Date Elliott II")
     {
      color="Green";
@@ -254,6 +258,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Elliott III",LnN(ln(25),ln(2)));
     Date("Date Elliott III")
     {
      color="Green";
@@ -274,6 +279,7 @@ Plot()
     {
      Outlier("General", 0.05);
     };
+    Interval("Interval Boys Wood",LnN(ln(25),ln(2)));
     Date("Date Boys Wood")
     {
      color="Green";
@@ -298,11 +304,12 @@ Plot()
     {
      Outlier("General",0.05);
     };
-   };
+   Interval("Interval De Waele",LnN(ln(25),ln(2)));
    Date("Date De Waele")
    {
     color="Green";
    };
+    };
    Boundary("End De Waele");
   };
   Sequence()
@@ -346,6 +353,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Hibou",LnN(ln(25),ln(2)));	
     Date("Date Hibou")
     {
      color="Green";
@@ -366,6 +374,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Miller",LnN(ln(25),ln(2)));	
     Date("Date Miller")
     {
      color="Green";
@@ -390,6 +399,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Bennett",LnN(ln(25),ln(2)));
     Date("Date Bennett")
     {
      color="Green";
@@ -422,6 +432,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Uren",LnN(ln(25),ln(2)));
     Date("Date Uren")
     {
      color="Blue";
@@ -478,6 +489,7 @@ Plot()
     {
      Outlier("General", 0.05);
     };
+    Interval("Interval Tillsonberg",LnN(ln(25),ln(2)));	
     Date("Date Tillsonberg")
     {
      color="Blue";
@@ -498,6 +510,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+	Interval("Interval Barrie",LnN(ln(25),ln(2)));	
     Date("Date Barrie")
     {
      color="Blue";
@@ -518,6 +531,7 @@ Plot()
     {
      Outlier("General",0.05);
     };
+    Interval("Interval Gunby",LnN(ln(25),ln(2)));	
     Date("Date Gunby")
     {
      color="Blue";
