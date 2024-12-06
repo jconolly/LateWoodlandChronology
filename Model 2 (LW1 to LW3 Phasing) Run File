@@ -190,18 +190,6 @@ Plot()
     {
      Outlier("General",0.05);
     };
-    R_Date("TO-5981_Grafton_Zea mays",835,60)
-    {
-     Outlier("General",0.05);
-    };
-    R_Date("Beta-97372_Grafton_Bramble Seeds",730,50)
-    {
-     Outlier("General", 0.05);
-    };
-//    R_Date("TO-5981-b_Grafton_Zea mays",500,60)
-//    {
-//     Outlier("General",0.05);
-//    };
     R_Date("TO-3844_Hibou_Zea_mays",730,50)
     {
      Outlier("General",0.05);
