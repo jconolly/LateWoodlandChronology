@@ -1,4 +1,4 @@
-#CSV (Source is CARD unless otherwise noted)
+#Source is the Canadian Archaeological Radiocarbon Database (CARD) unless otherwise noted)
 Site,Lab Code,Date,St Dev,Fractionation corrected,Method,Material,Source
 Anderson,TO-7034,1170,250,Unknown,AMS,Zea mays,CARD
 Anderson,TO-7033,720,80,Unknown,AMS,Zea mays,CARD
