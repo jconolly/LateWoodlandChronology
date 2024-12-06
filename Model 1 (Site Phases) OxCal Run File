@@ -316,10 +316,6 @@ Plot()
    Boundary("Start Grafton");
    Phase("Grafton")
    {
-    R_Date("BGS-1845_Grafton_Zea mays",970,110)
-    {
-     Outlier("General",0.05);
-    };
     R_Date("TO-5981_Grafton_Zea mays",835,60)
     {
      Outlier("General",0.05);
