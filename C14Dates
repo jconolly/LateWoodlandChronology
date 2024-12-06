@@ -1,237 +1,233 @@
-Phase	Map No.	Site	Lab Code	Date	St Dev	Fractionation corrected	Method	Material	Source
-LW1	1	Moyer Flats	Unpublished	900	80	Unknown	Radiometric	Unpublished	CARD
-LW1	1	Moyer Flats	I-13078	1050	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW1	2	Bull's Point	TO-6341	960	60	Unknown	AMS	Zea mays	CARD
-LW1	3	Holmedale	TO-6709	1010	70	Unknown	AMS	Charred maize kernel	Pihl et al. 2008
-LW1	3	Holmedale	UOC-16305	906	30	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW1	3	Holmedale	UOC-16306	878	32	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW1	3	Holmedale	UGAMS-59371	970	25	Yes	AMS	Charred maize kernel	Jennifer Birch, pers. comm.
-LW1	3	Holmedale	UGAMS-59372	970	20	Yes	AMS	Charred maize kernel	Jennifer Birch, pers. comm.
-LW1	3	Holmedale	UGAMS-59373	1090	20	Yes	AMS	Charred maize kernel	Jennifer Birch, pers. comm.
-LW1	3	Holmedale	UGAMS-59374	960	20	Yes	AMS	Charred maize kernel	Jennifer Birch, pers. comm.
-LW1	3	Holmedale	WAT-3005	1080	80	Unknown	Radiometric	Charred walnet shell	Pihl et al. 2008
-LW1	4	D'Aubigny Park	Beta-217154	1780	50	Yes	AMS	Zea mays	CARD
-LW1	5	Mohawk Chapel	Unpublished	430	80	Unknown	Unknown	Unpublished	CARD
-LW1	5	Mohawk Chapel	I-13534	1520	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW1	6	Stratford Flats	Unpublished	900	190	Unknown	Unknown	Unpublished	CARD
-LW1	6	Stratford Flats	I-13081	1050	190	Unknown	Unknown	Wood Charcoal	CARD
-LW1	7	Grand Banks	TO-4558	210	60	Unknown	AMS	Phaseolus vulgaris	CARD
-LW1	7	Grand Banks	Beta-75094	140	70	Yes	AMS	Wood Charcoal	CARD
-LW1	7	Grand Banks	Beta-75096	3112	80	Yes	AMS	Wood Charcoal	CARD
-LW1	7	Grand Banks	TO-4584	1060	60	Unknown	AMS	Zea mays	CARD
-LW1	7	Grand Banks	TO-4585	1250	80	Unknown	AMS	Zea mays	CARD
-LW1	7	Grand Banks	TO-5307	1570	90	Unknown	AMS	Zea mays	CARD
-LW1	7	Grand Banks	TO-5308	1500	150	Unknown	AMS	Zea mays	CARD
-LW1	7	Grand Banks	TO-5875	970	50	Unknown	AMS	Zea mays	CARD
-LW1	7	Grand Banks	DIC-257	3010	65	Unknown	Radiometric	Wood Charcoal	CARD
-LW1	8	Lone Pine	TO-4083	800	50	Unknown	AMS	Zea mays	CARD
-LW1	8	Lone Pine	TO-4586	1040	60	Unknown	AMS	Zea mays	CARD
-LW1	9	Cayuga Bridge	S-714	1155	132	Unknown	Radiometric	Wood Charcoal	CARD
-LW1	10	Selkirk No. 5	DIC-167	1210	55	Unknown	Radiometric	Wood Charcoal	CARD
-LW1	10	Selkirk No. 5	DIC-175	1000	50	Unknown	Radiometric	Wood Charcoal	CARD
-LW1	11	Lakeshore Lodge	S-2194	1110	60	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	1	Haagsma	BGS-1814	1030	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	1	Haagsma	BGS-1815	965	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	1	Haagsma	BGS-1654	610	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	1	Haagsma	BGS-1655	600	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	1	Haagsma	BGS-1680	550	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	1	Haagsma	BGS-1164	1110	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	2	Roeland	I-12774	750	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	2	Roeland	I-12773	700	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	3	Ivory Hill	I-13164	790	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	4	Yaworski	I-12059	890	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	4	Yaworski	I-12060	860	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	4	Yaworski	I-12060-b	830	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	5	Kelly	TO-8963	770	50	Unknown	AMS	Phaseolus vulgaris	CARD
-LW2	5	Kelly	I-11474	790	80	Unknown	Radiometric	Nutshell	CARD
-LW2	5	Kelly	I-11475	1120	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	5	Kelly	I-12061	850	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	6	Boisclair	I-13094	950	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	6	Boisclair	I-13533	760	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	6	Boisclair	I-13082	645	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	7	Stafford	M-1553-a	735	110	Unknown	Radiometric	Zea mays	CARD
-LW2	7	Stafford	M-1553	490	100	Unknown	Radiometric	Zea mays	CARD
-LW2	8	Calvert	I-12176	900	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	8	Calvert	I-12174	860	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	8	Calvert	I-12173	820	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	8	Calvert	I-12175	800	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	8	Calvert	I-12177	740	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	8	Calvert	I-12476	740	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	9	Elliott II	UOC-4223	813	35	Yes	AMS	Bone	Fox et al. 2023
-LW2	9	Elliott II	UOC-4224	840	35	Yes	AMS	Bone	Fox et al. 2023
-LW2	9	Elliott II	UOC-16300	832	26	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	9	Elliott II	UOC-16301	801	30	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	9	Elliott II	I-13098	1100	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	9	Elliott II	xxx68	1000	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	9	Elliott II	I-13095	890	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	9	Elliott II	I-13096	820	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	9	Elliott II	I-13097	760	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	9	Elliott III	UOC-4221	820	35	Yes	AMS	Bone	Fox et al. 2023
-LW2	9	Elliott III	UOC-4222	824	35	Yes	AMS	Bone	Fox et al. 2023
-LW2	9	Elliott III	UOC-16302	785	28	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	9	Elliott III	UOC-16303	803	31	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	9	Elliott III	UOC-16304	768	28	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	10	De Waele	I-6411	900	90	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	10	De Waele	I-6412	855	90	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	10	DeWaele	UOC-15870	710	28	Yes	AMS	Charred maize cob fragment	Fox et al. 2023
-LW2	10	DeWaele	UOC-15868	747	26	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	10	DeWaele	UOC-15869	762	26	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	11	Force	I-10630	1070	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	11	Force	I-10629	715	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	11	Force	I-10631	705	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	11	Force	I-10628	625	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	12	Van Besien	UOC-13131	858	26	Yes	AMS	Charred maize cob fragment	Fox et al. 2023
-LW2	12	Van Besien	UOC-13132	787	25	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	12	Van Besien	UOC-13133	822	26	Yes	AMS	Charred nut shell fragment	Fox et al. 2023
-LW2	12	Van Besien	I-6848	1175	140	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	12	Van Besien	I-6847	1010	90	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	12	Van Besien	I-6167	1005	90	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	13	Porteous	I-4972	1125	100	Unknown	Radiometric	Wood Charcoal	Nobel and Kenyon 1972
-LW2	13	Porteous	I-5820	1370	90	Unknown	Radiometric	Wood Charcoal	Nobel and Kenyon 1972
-LW2	13	Porteous	GSC-1917	900	70	Unknown	Radiometric	Wood Charcoal	Nobel and Kenyon 1972
-LW2	13	Porteous	DIC-123	1470	50	Unknown	Radiometric	Wood Charcoal	Nobel and Kenyon 1972
-LW2	13	Porteous	DIC-126	1200	50	Unknown	Radiometric	Wood Charcoal	Nobel and Kenyon 1972
-LW2	13	Porteous	CWRU-123	1470	100	Unknown	Radiometric	Wood Charcoal	Smith 1997
-LW2	13	Porteous	CWRU-126	1200	100	Unknown	Radiometric	Wood Charcoal	Smith 1997
-LW2	13	Porteous	UOC-13129	841	25	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	13	Porteous	UOC-13130	888	26	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW2	13	Porteous	UOC-13128	878	28	Yes	AMS	Charred nut shell	Fox et al. 2023
-LW2	13	Porteous	UOC-13519	876	27	Yes	AMS	Rerun of 13129	Fox et al. 2023
-LW2	14	Cooper	I-11779	800	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	14	Cooper	I-11826	750	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	14	Cooper	I-11841	730	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	14	Cooper	I-11367	955	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	15	Macallan	BGS-59	990	70	Unknown	Radiometric	Human Bone	CARD
-LW2	16	Forster	TO-6343	840	90	Unknown	AMS	Zea mays	CARD
-LW2	17	Anderson	TO-7034	1170	250	Unknown	AMS	Zea mays	CARD
-LW2	17	Anderson	TO-7033	720	80	Unknown	AMS	Zea mays	CARD
-LW2	18	Bennett	UOC-19951	613	11	Yes	AMS	Zea mays	CARD
-LW2	18	Bennett	UOC-19952	587	11	Yes	AMS	Zea mays	CARD
-LW2	18	Bennett	UOC-19953	600	11	Yes	AMS	Zea mays	CARD
-LW2	18	Bennett	GSC-143	690	130	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	18	Bennett	M-1527	670	100	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	19	Gunby	I-10346	695	135	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	19	Gunby	xxx43	665	135	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	19	Gunby	UGAMS-60197	560	20	Yes	AMS	Zea mays	Jennifer Birch, pers. comm.
-LW2	19	Gunby	UGAMS-60196	550	20	Yes	AMS	Zea mays	Jennifer Birch, pers. comm.
-LW2	19	Gunby	I-10345	565	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	20	Ireland	BGS-1528	840	90	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	20	Ireland	BGS-1527	790	90	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	21	King's Forest Park	TO-4322	800	60	Unknown	AMS	Unpublished	CARD
-LW2	21	King's Forest Park	TO-4321	610	60	Unknown	AMS	Unpublished	CARD
-LW2	22	Pergantile	TO-4320	880	60	Unknown	AMS	Unpublished	CARD
-LW2	22	Pergantile	TO-4319	840	70	Unknown	AMS	Unpublished	CARD
-LW2	23	Five Acre Field	Beta-87951	890	70	Yes	AMS	Wood Charcoal	CARD
-LW2	23	Five Acre Field	Beta-75657	750	100	Yes	AMS	Wood Charcoal	CARD
-LW2	23	Tara	BGS-1526	840	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	23	Tara	BGS-1525	750	120	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	23	Tara	BGS-1530	730	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	23	Tara	BGS-1524	725	85	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	24	Antrex	WAT-2951	800	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	24	Antrex	WAT-2952	800	70	Unknown	Radiometric	Zea mays	CARD
-LW2	25	Miller	UGAM-62677	640	20	Yes	AMS	Zea mays	CARD
-LW2	25	Miller	UGAM-62678	690	20	Yes	AMS	Zea mays	CARD
-LW2	25	Miller	S-108	835	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	26	Boys	I-7322	985	120	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	26	Boys	I-n/a-2	725	95	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	26	Boys	UGAMS-60194	770	20	Yes	AMS	Zea mays	Jennifer Birch, pers. comm.
-LW2	26	Boys	UGAMS-60195	790	20	Yes	AMS	Nutshell	Jennifer Birch, pers. comm.
-LW2	27	Hibou	TO-3844	730	50	Unknown	AMS	Zea mays	CARD
-LW2	27	Hibou	TO-3845	590	50	Unknown	AMS	Zea mays	CARD
-LW2	27	Robinson Ridge	xxx76	800	50	Unknown	Radiometric	Unpublished	CARD
-LW2	28	Eldorado	TO-1078	890	40	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	29	Auda	S-1948	1070	110	Unknown	Radiometric	Charred wood	CARD
-LW2	29	Auda	Beta-446920	910	30	Yes	AMS	Bone Collagen	CARD
-LW2	29	Auda	UGAMS-60192	790	20	Yes	AMS	Seed (Hawthorne?)	Jennifer Birch, pers. comm.
-LW2	29	Auda	UGAMS-60193	790	20	Yes	AMS	Seed (Hawthorne?)	Jennifer Birch, pers. comm.
-LW2	30	Sandy Ridge	AA-5730	735	65	Unknown	Radiometric	Calcined Bone	CARD
-LW2	31	Grafton	BGS-1848	665	75	Unknown	Radiometric	unknown	CARD
-LW2	31	Grafton	BGS-1542	840	80	Unknown	Radiometric	Unpublished	CARD
-LW2	31	Grafton	BGS-1556	840	145	Unknown	Radiometric	Unpublished	CARD
-LW2	31	Grafton	BGS-1158	735	70	Unknown	Radiometric	Unpublished	CARD
-LW2	31	Grafton	BGS-1916	1110	160	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1846	1065	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1844	1030	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1843	935	85	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1849	855	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1842	840	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1856	840	145	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1915	785	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	Beta-97372	730	50	Yes	AMS	Bramble Seeds	CARD
-LW2	31	Grafton	BGS-1858	765	95	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1847	735	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1850	675	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	BGS-1857	665	140	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	31	Grafton	Beta-97371	770	40	Yes	AMS	Wood Charcoal	CARD
-LW2	31	Grafton	TO-5981	835	60	Yes	AMS	Zea mays	CARD
-LW2	31	Grafton	BGS-1845	970	110	Unknown	Radiometric	Zea mays	CARD
-LW2	31	Grafton	TO-5981-b	500	60	Yes	AMS	Zea mays	CARD
-LW2	32	Richardson	I-9871	1120	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	32	Richardson	I-9651	635	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW2	32	Richardson	TO-12244	950	60	Yes	AMS	Wood Charcoal	CARD
-LW2	32	Richardson	TO-12243	510	70	Yes	AMS	Wood Charcoal	CARD
-LW3	1	Edwards	I-12278	690	100	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	1	Edwards	I-12279	700	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	2	Willcock	S-2543	870	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	2	Willcock	S-2539	875	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	3	Tillsonburg	UOC-19269	600	11	Yes	AMS	Bone	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19270	565	11	Yes	AMS	Bone	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19271	563	11	Yes	AMS	Bone	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19272	583	11	Yes	AMS	Bone	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19273	630	11	Yes	AMS	Bone	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19187	571	11	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19189	586	11	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19190	667	12	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW3	3	Tillsonburg	UOC-19188	547	11	Yes	AMS	Charred plum pit	Fox et al. 2023
-LW3	3	Tillsonburg 	UOC-19186	605	11	Yes	AMS	Charred bean	Fox et al. 2023
-LW3	3	Tillsonburg 2	UOC-19191	538	11	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW3	4	Uren	WSU-1959	700	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	4	Uren	WSU-1958	680	70	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	4	Uren	WSU-1956	650	60	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	4	Uren	UGA-26438	580	20	Yes	AMS	Charred maize kernel	Jennifer Birch, pers. comm.
-LW3	4	Uren	UGA-26439a	580	20	Yes	AMS	Charred maize kernel	Jennifer Birch, pers. comm.
-LW3	4	Uren	UGA-26439b	570	26	Yes	AMS	Charred maize kernel (rerun)	Jennifer Birch, pers. comm.
-LW3	4	Uren	UOC-15871	591	26	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW3	4	Uren	UOC-15872	586	26	Yes	AMS	Charred maize kernel	Fox et al. 2023
-LW3	4	Uren	WSU-1957	825	70	Unknown	Radiometric	Zea mays	CARD
-LW3	4	Uren	DIC-905	1390	75	Unknown	Radiometric	Zea mays	CARD
-LW3	5	Reid	I-9584	505	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	5	Reid	I-9583	550	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	5	Reid	I-9582	715	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	5	Reid	I-9581	560	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	6	Nodwell	S-1710	790	45	Unknown	Radiometric	bear bone collagen	CARD
-LW3	6	Nodwell	S-1711	1000	75	Unknown	Radiometric	bear bone collagen	CARD
-LW3	6	Nodwell	S-1714	980	45	Unknown	Radiometric	beaver bone collagen	CARD
-LW3	6	Nodwell	S-1716	2780	70	Unknown	Radiometric	Carbonized Bone	CARD
-LW3	6	Nodwell	S-1720	1035	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	6	Nodwell	S-503	610	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	6	Nodwell	S-1717	860	120	Unknown	Radiometric	deer bone collagen	CARD
-LW3	6	Nodwell	S-1712	880	40	Unknown	Radiometric	deer bone collagen	CARD
-LW3	6	Nodwell	S-1718	990	110	Unknown	Radiometric	fish bone collagen	CARD
-LW3	6	Nodwell	S-1713	1540	55	Unknown	Radiometric	fish bone collagen	CARD
-LW3	6	Nodwell	S-1715	2125	70	Unknown	Radiometric	Freashwater Mollusc Shell	CARD
-LW3	6	Nodwell	S-1719	335	70	Unknown	Radiometric	Zea mays	CARD
-LW3	7	Middleport	S-2897	920	60	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	7	Middleport	S-2902	950	60	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	7	Middleport	S-2900	865	60	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	7	Middleport	S-2898	910	60	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	7	Middleport	S-2896	1025	135	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	7	Middleport	S-2895	875	60	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	7	Middleport	S-2899	885	135	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	7	Middleport	S-2901	1020	135	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	8	Five Acre Field	Beta-73472	340	90	Yes	AMS	Wood Charcoal	CARD
-LW3	9	Bonisteel	BGs-986	3070	120	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	9	Bonisteel	BGS-987	540	120	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	9	Bonisteel	BGS-1130	705	95	Unknown	Radiometric	Zea mays	CARD
-LW3	10	Barrie	TO-3057	530	40	Yes	AMS	Zea mays	CARD
-LW3	10	Barrie	UGAMS-40364	600	20	Yes	AMS	Zea mays	Jennifer Birch, pers. comm.
-LW3	11	Beswetherick	M-1525	596	100	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	11	Beswetherick	M-1526	590	100	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	12	Wiacek	I-13538c	660	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	12	Wiacek	I-13538	730	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	12	Wiacek	I-13537	750	80	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	13	New	DIC-1252	640	75	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	13	New	DIC-1251	1030	205	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	14	Gibbs	S-2627	395	180	Unknown	Radiometric	Wood Charcoal	CARD
-LW3	14	Gibbs	Beta-7984	470	50	Yes	AMS	Wood Charcoal	CARD
-LW3	14	Gibbs	Beta-26841	600	60	Yes	AMS	Wood Charcoal	CARD
+#CSV (Source is CARD unless otherwise noted)
+Site,Lab Code,Date,St Dev,Fractionation corrected,Method,Material,Source
+Anderson,TO-7034,1170,250,Unknown,AMS,Zea mays,CARD
+Anderson,TO-7033,720,80,Unknown,AMS,Zea mays,CARD
+Antrex,WAT-2951,800,75,Unknown,Radiometric,Wood Charcoal,CARD
+Antrex,WAT-2952,800,70,Unknown,Radiometric,Zea mays,CARD
+Auda,S-1948,1070,110,Unknown,Radiometric,Charred wood,CARD
+Auda,Beta-446920,910,30,Yes,AMS,Bone Collagen,CARD
+Auda,UGAMS-60192,790,20,Yes,AMS,Seed (Hawthorne?),Jennifer Birch, pers. comm.
+Auda,UGAMS-60193,790,20,Yes,AMS,Seed (Hawthorne?),Jennifer Birch, pers. comm.
+Barrie,TO-3057,530,40,Yes,AMS,Zea mays,CARD
+Barrie,UGAMS-40364,600,20,Yes,AMS,Zea mays,Jennifer Birch, pers. comm.
+Bennett,UOC-19951,613,11,Yes,AMS,Zea mays,CARD
+Bennett,UOC-19952,587,11,Yes,AMS,Zea mays,CARD
+Bennett,UOC-19953,600,11,Yes,AMS,Zea mays,CARD
+Bennett,GSC-143,690,130,Unknown,Radiometric,Wood Charcoal,CARD
+Bennett,M-1527,670,100,Unknown,Radiometric,Wood Charcoal,CARD
+Beswetherick,M-1525,596,100,Unknown,Radiometric,Wood Charcoal,CARD
+Beswetherick,M-1526,590,100,Unknown,Radiometric,Wood Charcoal,CARD
+Boisclair,I-13094,950,80,Unknown,Radiometric,Wood Charcoal,CARD
+Boisclair,I-13533,760,80,Unknown,Radiometric,Wood Charcoal,CARD
+Boisclair,I-13082,645,75,Unknown,Radiometric,Wood Charcoal,CARD
+Bonisteel,BGs-986,3070,120,Unknown,Radiometric,Wood Charcoal,CARD
+Bonisteel,BGS-987,540,120,Unknown,Radiometric,Wood Charcoal,CARD
+Bonisteel,BGS-1130,705,95,Unknown,Radiometric,Zea mays,CARD
+Boys,I-7322,985,120,Unknown,Radiometric,Wood Charcoal,CARD
+Boys,I-n/a-2,725,95,Unknown,Radiometric,Wood Charcoal,CARD
+Boys,UGAMS-60194,770,20,Yes,AMS,Zea mays,Jennifer Birch, pers. comm.
+Boys,UGAMS-60195,790,20,Yes,AMS,Nutshell,Jennifer Birch, pers. comm.
+Bull's Point,TO-6341,960,60,Unknown,AMS,Zea mays,CARD
+Calvert,I-12176,900,75,Unknown,Radiometric,Wood Charcoal,CARD
+Calvert,I-12174,860,80,Unknown,Radiometric,Wood Charcoal,CARD
+Calvert,I-12173,820,80,Unknown,Radiometric,Wood Charcoal,CARD
+Calvert,I-12175,800,80,Unknown,Radiometric,Wood Charcoal,CARD
+Calvert,I-12177,740,75,Unknown,Radiometric,Wood Charcoal,CARD
+Calvert,I-12476,740,75,Unknown,Radiometric,Wood Charcoal,CARD
+Cayuga Bridge,S-714,1155,130,Unknown,Radiometric,Wood Charcoal,Rutherford et al. 1975
+Cooper,I-11779,800,75,Unknown,Radiometric,Wood Charcoal,CARD
+Cooper,I-11826,750,75,Unknown,Radiometric,Wood Charcoal,CARD
+Cooper,I-11841,730,75,Unknown,Radiometric,Wood Charcoal,CARD
+Cooper,I-11367,955,80,Unknown,Radiometric,Wood Charcoal,CARD
+D'Aubigny Park,Beta-217154,1780,50,Yes,AMS,Zea mays,ASI 2008
+De Waele,I-6411,900,90,Unknown,Radiometric,Wood Charcoal,CARD
+De Waele,I-6412,855,90,Unknown,Radiometric,Wood Charcoal,CARD
+DeWaele,UOC-15870,710,28,Yes,AMS,Charred maize cob fragment,Fox et al. 2023
+DeWaele,UOC-15868,747,26,Yes,AMS,Charred maize kernel,Fox et al. 2023
+DeWaele,UOC-15869,762,26,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Edwards,I-12278,690,100,Unknown,Radiometric,Wood Charcoal,CARD
+Edwards,I-12279,700,80,Unknown,Radiometric,Wood Charcoal,CARD
+Eldorado,TO-1078,890,40,Unknown,Radiometric,Wood Charcoal,CARD
+Elliott II,UOC-4223,813,35,Yes,AMS,Bone,Fox et al. 2023
+Elliott II,UOC-4224,840,35,Yes,AMS,Bone,Fox et al. 2023
+Elliott II,UOC-16300,832,26,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Elliott II,UOC-16301,801,30,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Elliott II,I-13098,1100,80,Unknown,Radiometric,Wood Charcoal,CARD
+Elliott II,xxx68,1000,80,Unknown,Radiometric,Wood Charcoal,CARD
+Elliott II,I-13095,890,80,Unknown,Radiometric,Wood Charcoal,CARD
+Elliott II,I-13096,820,80,Unknown,Radiometric,Wood Charcoal,CARD
+Elliott II,I-13097,760,80,Unknown,Radiometric,Wood Charcoal,CARD
+Elliott III,UOC-4221,820,35,Yes,AMS,Bone,Fox et al. 2023
+Elliott III,UOC-4222,824,35,Yes,AMS,Bone,Fox et al. 2023
+Elliott III,UOC-16302,785,28,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Elliott III,UOC-16303,803,31,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Elliott III,UOC-16304,768,28,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Five Acre Field,Beta-87951,890,70,Yes,AMS,Wood Charcoal,CARD
+Five Acre Field,Beta-75657,750,100,Yes,AMS,Wood Charcoal,CARD
+Five Acre Field,Beta-73472,340,90,Yes,AMS,Wood Charcoal,CARD
+Force,I-10630,1070,80,Unknown,Radiometric,Wood Charcoal,CARD
+Force,I-10629,715,75,Unknown,Radiometric,Wood Charcoal,CARD
+Force,I-10631,705,75,Unknown,Radiometric,Wood Charcoal,CARD
+Force,I-10628,625,75,Unknown,Radiometric,Wood Charcoal,CARD
+Forster,TO-6343,840,90,Unknown,AMS,Zea mays,CARD
+Gibbs,S-2627,395,180,Unknown,Radiometric,Wood Charcoal,CARD
+Gibbs,Beta-7984,470,50,Yes,AMS,Wood Charcoal,CARD
+Gibbs,Beta-26841,600,60,Yes,AMS,Wood Charcoal,CARD
+Grafton,BGS-1848,665,75,Unknown,Radiometric,unknown,CARD
+Grafton,BGS-1542,840,80,Unknown,Radiometric,Unpublished,CARD
+Grafton,BGS-1556,840,145,Unknown,Radiometric,Unpublished,CARD
+Grafton,BGS-1158,735,70,Unknown,Radiometric,Unpublished,CARD
+Grafton,BGS-1916,1110,160,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1846,1065,80,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1844,1030,80,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1843,935,85,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1849,855,75,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1842,840,80,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1856,840,145,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1915,785,75,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,Beta-97372,730,50,Yes,AMS,Bramble Seeds,CARD
+Grafton,BGS-1858,765,95,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1847,735,70,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1850,675,75,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,BGS-1857,665,140,Unknown,Radiometric,Wood Charcoal,CARD
+Grafton,Beta-97371,770,40,Yes,AMS,Wood Charcoal,CARD
+Grafton,TO-5981,835,60,Yes,AMS,Zea mays,CARD
+Grafton,BGS-1845,970,110,Unknown,Radiometric,Zea mays,CARD
+Grafton,TO-5981-b,500,60,Yes,AMS,Zea mays,CARD
+Grand Banks,TO-4558,210,60,Unknown,AMS,Phaseolus vulgaris,Crawford et al. 1997
+Grand Banks,Beta-75094,140,70,Yes,AMS,Wood Charcoal,CARD
+Grand Banks,Beta-75096,3112,80,Yes,AMS,Wood Charcoal,CARD
+Grand Banks,TO-4584,1060,60,Unknown,AMS,Zea mays,Crawford et al. 1997
+Grand Banks,TO-4585,1250,80,Unknown,AMS,Zea mays,Crawford et al. 1997
+Grand Banks,TO-5307,1570,90,Unknown,AMS,Zea mays,Crawford et al. 1997
+Grand Banks,TO-5308,1500,150,Unknown,AMS,Zea mays,Crawford et al. 1997
+Grand Banks,TO-5875,970,50,Unknown,AMS,Zea mays,Crawford et al. 1997
+Grand Banks,DIC-257,3010,65,Unknown,Radiometric,Wood Charcoal,CARD
+Gunby,I-10346,695,135,Unknown,Radiometric,Wood Charcoal,CARD
+Gunby,xxx43,665,135,Unknown,Radiometric,Wood Charcoal,CARD
+Gunby,UGAMS-60197,560,20,Yes,AMS,Zea mays,Jennifer Birch, pers. comm.
+Gunby,UGAMS-60196,550,20,Yes,AMS,Zea mays,Jennifer Birch, pers. comm.
+Gunby,I-10345,565,80,Unknown,Radiometric,Wood Charcoal,CARD
+Haagsma,BGS-1814,1030,70,Unknown,Radiometric,Wood Charcoal,CARD
+Haagsma,BGS-1815,965,70,Unknown,Radiometric,Wood Charcoal,CARD
+Haagsma,BGS-1654,610,70,Unknown,Radiometric,Wood Charcoal,CARD
+Haagsma,BGS-1655,600,70,Unknown,Radiometric,Wood Charcoal,CARD
+Haagsma,BGS-1680,550,70,Unknown,Radiometric,Wood Charcoal,CARD
+Haagsma,BGS-1164,1110,80,Unknown,Radiometric,Wood Charcoal,CARD
+Hibou,TO-3844,730,50,Unknown,AMS,Zea mays,CARD
+Hibou,TO-3845,590,50,Unknown,AMS,Zea mays,CARD
+Holmedale,TO-6709,1010,70,Unknown,AMS,Charred maize kernel,Pihl et al. 2008
+Holmedale,UOC-16305,906,30,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Holmedale,UOC-16306,878,32,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Holmedale,UGAMS-59371,970,25,Yes,AMS,Charred maize kernel,This paper 
+Holmedale,UGAMS-59372,970,20,Yes,AMS,Charred maize kernel,This paper 
+Holmedale,UGAMS-59373,1090,20,Yes,AMS,Charred maize kernel,This paper 
+Holmedale,UGAMS-59374,960,20,Yes,AMS,Charred maize kernel,This paper 
+Holmedale,WAT-3005,1080,80,Unknown,Radiometric,Charred walnet shell,Pihl et al. 2008
+Ireland,BGS-1528,840,90,Unknown,Radiometric,Wood Charcoal,CARD
+Ireland,BGS-1527,790,90,Unknown,Radiometric,Wood Charcoal,CARD
+Ivory Hill,I-13164,790,80,Unknown,Radiometric,Wood Charcoal,CARD
+Kelly,TO-8963,770,50,Unknown,AMS,Phaseolus vulgaris,Hart et al. 2002
+Kelly,I-11474,790,80,Unknown,Radiometric,Nutshell,CARD
+Kelly,I-11475,1120,80,Unknown,Radiometric,Wood Charcoal,CARD
+Kelly,I-12061,850,80,Unknown,Radiometric,Wood Charcoal,CARD
+King's Forest Park,TO-4322,800,60,Unknown,AMS,Unpublished,CARD
+King's Forest Park,TO-4321,610,60,Unknown,AMS,Unpublished,CARD
+Lakeshore Lodge,S-2194,1110,60,Unknown,Radiometric,Wood Charcoal,CARD
+Lone Pine,TO-4083,800,50,Unknown,AMS,Zea mays,Crawford and Smith 1996
+Lone Pine,TO-4586,1040,60,Unknown,AMS,Zea mays,Crawford and Smith 1996
+Middleport,S-2897,920,60,Unknown,Radiometric,Wood Charcoal,CARD
+Middleport,S-2902,950,60,Unknown,Radiometric,Wood Charcoal,CARD
+Middleport,S-2900,865,60,Unknown,Radiometric,Wood Charcoal,CARD
+Middleport,S-2898,910,60,Unknown,Radiometric,Wood Charcoal,CARD
+Middleport,S-2896,1025,135,Unknown,Radiometric,Wood Charcoal,CARD
+Middleport,S-2895,875,60,Unknown,Radiometric,Wood Charcoal,CARD
+Middleport,S-2899,885,135,Unknown,Radiometric,Wood Charcoal,CARD
+Middleport,S-2901,1020,135,Unknown,Radiometric,Wood Charcoal,CARD
+Miller,UGAM-62677,640,20,Yes,AMS,Zea mays,CARD
+Miller,UGAM-62678,690,20,Yes,AMS,Zea mays,CARD
+Miller,S-108,835,70,Unknown,Radiometric,Wood Charcoal,CARD
+Mohawk Chapel,I-13534,1520,80,Unknown,Radiometric,Wood Charcoal,CARD
+Moyer Flats,I-13078,1050,80,Unknown,Radiometric,Wood Charcoal,CARD
+New,DIC-1252,640,75,Unknown,Radiometric,Wood Charcoal,CARD
+New,DIC-1251,1030,205,Unknown,Radiometric,Wood Charcoal,CARD
+Nodwell,S-1710,790,45,Unknown,Radiometric,bear bone collagen,CARD
+Nodwell,S-1711,1000,75,Unknown,Radiometric,bear bone collagen,CARD
+Nodwell,S-1714,980,45,Unknown,Radiometric,beaver bone collagen,CARD
+Nodwell,S-1716,2780,70,Unknown,Radiometric,Carbonized Bone,CARD
+Nodwell,S-1720,1035,80,Unknown,Radiometric,Wood Charcoal,CARD
+Nodwell,S-503,610,75,Unknown,Radiometric,Wood Charcoal,CARD
+Nodwell,S-1717,860,120,Unknown,Radiometric,deer bone collagen,CARD
+Nodwell,S-1712,880,40,Unknown,Radiometric,deer bone collagen,CARD
+Nodwell,S-1718,990,110,Unknown,Radiometric,fish bone collagen,CARD
+Nodwell,S-1713,1540,55,Unknown,Radiometric,fish bone collagen,CARD
+Nodwell,S-1715,2125,70,Unknown,Radiometric,Freashwater Mollusc Shell,CARD
+Nodwell,S-1719,335,70,Unknown,Radiometric,Zea mays,CARD
+Pergantile,TO-4320,880,60,Unknown,AMS,Unpublished,CARD
+Pergantile,TO-4319,840,70,Unknown,AMS,Unpublished,CARD
+Porteous,I-4972,1125,100,Unknown,Radiometric,Wood Charcoal,Nobel and Kenyon 1972
+Porteous,I-5820,1370,90,Unknown,Radiometric,Wood Charcoal,Nobel and Kenyon 1972
+Porteous,GSC-1917,900,70,Unknown,Radiometric,Wood Charcoal,Nobel and Kenyon 1972
+Porteous,DIC-123,1470,50,Unknown,Radiometric,Wood Charcoal,Nobel and Kenyon 1972
+Porteous,DIC-126,1200,50,Unknown,Radiometric,Wood Charcoal,Nobel and Kenyon 1972
+Porteous,CWRU-123,1470,100,Unknown,Radiometric,Wood Charcoal,Smith 1997
+Porteous,CWRU-126,1200,100,Unknown,Radiometric,Wood Charcoal,Smith 1997
+Porteous,UOC-13129,841,25,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Porteous,UOC-13130,888,26,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Porteous,UOC-13128,878,28,Yes,AMS,Charred nut shell,Fox et al. 2023
+Porteous,UOC-13519,876,27,Yes,AMS,Rerun of 13129,Fox et al. 2023
+Reid,I-9584,505,80,Unknown,Radiometric,Wood Charcoal,CARD
+Reid,I-9583,550,80,Unknown,Radiometric,Wood Charcoal,CARD
+Reid,I-9582,715,80,Unknown,Radiometric,Wood Charcoal,CARD
+Reid,I-9581,560,80,Unknown,Radiometric,Wood Charcoal,CARD
+Richardson,I-9871,1120,80,Unknown,Radiometric,Wood Charcoal,CARD
+Richardson,I-9651,635,80,Unknown,Radiometric,Wood Charcoal,CARD
+Richardson,TO-12244,950,60,Yes,AMS,Wood Charcoal,CARD
+Richardson,TO-12243,510,70,Yes,AMS,Wood Charcoal,CARD
+Robinson Ridge,xxx76,800,50,Unknown,Radiometric,Unpublished,CARD
+Roeland,I-12774,750,80,Unknown,Radiometric,Wood Charcoal,CARD
+Roeland,I-12773,700,80,Unknown,Radiometric,Wood Charcoal,CARD
+Sandy Ridge,AA-5730,735,65,Unknown,Radiometric,Calcined Bone,CARD
+Selkirk No. 5,DIC-167,1210,55,Unknown,Radiometric,Wood Charcoal,CARD
+Selkirk No. 5,DIC-175,1000,50,Unknown,Radiometric,Wood Charcoal,CARD
+Stafford,M-1553-a,735,110,Unknown,Radiometric,Zea mays,CARD
+Stratford Flats,I-13081,1050,190,Unknown,Unknown,Wood Charcoal,CARD
+Tara,BGS-1526,840,80,Unknown,Radiometric,Wood Charcoal,CARD
+Tara,BGS-1525,750,120,Unknown,Radiometric,Wood Charcoal,CARD
+Tara,BGS-1530,730,80,Unknown,Radiometric,Wood Charcoal,CARD
+Tara,BGS-1524,725,85,Unknown,Radiometric,Wood Charcoal,CARD
+Tillsonburg,UOC-19269,600,11,Yes,AMS,Bone,Fox et al. 2023
+Tillsonburg,UOC-19270,565,11,Yes,AMS,Bone,Fox et al. 2023
+Tillsonburg,UOC-19271,563,11,Yes,AMS,Bone,Fox et al. 2023
+Tillsonburg,UOC-19272,583,11,Yes,AMS,Bone,Fox et al. 2023
+Tillsonburg,UOC-19273,630,11,Yes,AMS,Bone,Fox et al. 2023
+Tillsonburg,UOC-19187,571,11,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Tillsonburg,UOC-19189,586,11,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Tillsonburg,UOC-19190,667,12,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Tillsonburg,UOC-19188,547,11,Yes,AMS,Charred plum pit,Fox et al. 2023
+Tillsonburg ,UOC-19186,605,11,Yes,AMS,Charred bean,Fox et al. 2023
+Tillsonburg 2,UOC-19191,538,11,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Uren,WSU-1959,700,70,Unknown,Radiometric,Wood Charcoal,CARD
+Uren,WSU-1958,680,70,Unknown,Radiometric,Wood Charcoal,CARD
+Uren,WSU-1956,650,60,Unknown,Radiometric,Wood Charcoal,CARD
+Uren,UGA-26438,580,20,Yes,AMS,Charred maize kernel,Jennifer Birch, pers. comm.
+Uren,UGA-26439a,580,20,Yes,AMS,Charred maize kernel,Jennifer Birch, pers. comm.
+Uren,UGA-26439b,570,26,Yes,AMS,Charred maize kernel (rerun),Jennifer Birch, pers. comm.
+Uren,UOC-15871,591,26,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Uren,UOC-15872,586,26,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Uren,WSU-1957,825,70,Unknown,Radiometric,Zea mays,CARD
+Uren,DIC-905,1390,75,Unknown,Radiometric,Zea mays,CARD
+Van Besien,UOC-13131,858,26,Yes,AMS,Charred maize cob fragment,Fox et al. 2023
+Van Besien,UOC-13132,787,25,Yes,AMS,Charred maize kernel,Fox et al. 2023
+Van Besien,UOC-13133,822,26,Yes,AMS,Charred nut shell fragment,Fox et al. 2023
+Van Besien,I-6848,1175,140,Unknown,Radiometric,Wood Charcoal,CARD
+Van Besien,I-6847,1010,90,Unknown,Radiometric,Wood Charcoal,CARD
+Van Besien,I-6167,1005,90,Unknown,Radiometric,Wood Charcoal,CARD
+Wiacek,I-13538c,660,80,Unknown,Radiometric,Wood Charcoal,CARD
+Wiacek,I-13538,730,80,Unknown,Radiometric,Wood Charcoal,CARD
+Wiacek,I-13537,750,80,Unknown,Radiometric,Wood Charcoal,CARD
+Willcock,S-2543,870,70,Unknown,Radiometric,Wood Charcoal,CARD
+Willcock,S-2539,875,70,Unknown,Radiometric,Wood Charcoal,CARD
+Yaworski,I-12059,890,80,Unknown,Radiometric,Wood Charcoal,CARD
+Yaworski,I-12060,860,80,Unknown,Radiometric,Wood Charcoal,CARD
+Yaworski,I-12060-b,830,70,Unknown,Radiometric,Wood Charcoal,CARD
